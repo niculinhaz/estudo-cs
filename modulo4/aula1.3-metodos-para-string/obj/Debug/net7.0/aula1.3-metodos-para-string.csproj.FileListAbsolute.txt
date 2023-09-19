@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\bin\Debug\net7.0\aula1.3-metodos-para-string.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\bin\Debug\net7.0\aula1.3-metodos-para-string.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\bin\Debug\net7.0\aula1.3-metodos-para-string.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\bin\Debug\net7.0\aula1.3-metodos-para-string.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\bin\Debug\net7.0\aula1.3-metodos-para-string.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\refint\aula1.3-metodos-para-string.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\aula1.3-metodos-para-string.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.3-metodos-para-string\obj\Debug\net7.0\ref\aula1.3-metodos-para-string.dll

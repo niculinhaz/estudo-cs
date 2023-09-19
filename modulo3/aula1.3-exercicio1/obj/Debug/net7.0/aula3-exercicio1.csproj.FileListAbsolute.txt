@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\bin\Debug\net7.0\aula3-exercicio1.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\bin\Debug\net7.0\aula3-exercicio1.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\bin\Debug\net7.0\aula3-exercicio1.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\bin\Debug\net7.0\aula3-exercicio1.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\bin\Debug\net7.0\aula3-exercicio1.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\refint\aula3-exercicio1.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\aula3-exercicio1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3-exercicio1\obj\Debug\net7.0\ref\aula3-exercicio1.dll

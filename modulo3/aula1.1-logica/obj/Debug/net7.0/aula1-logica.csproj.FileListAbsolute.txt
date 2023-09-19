@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\bin\Debug\net7.0\aula1-logica.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\bin\Debug\net7.0\aula1-logica.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\bin\Debug\net7.0\aula1-logica.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\bin\Debug\net7.0\aula1-logica.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\bin\Debug\net7.0\aula1-logica.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\refint\aula1-logica.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\aula1-logica.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula1-logica\obj\Debug\net7.0\ref\aula1-logica.dll

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\bin\Debug\net6.0\Starter.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\bin\Debug\net6.0\Starter.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\bin\Debug\net6.0\Starter.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\bin\Debug\net6.0\Starter.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.5-projeto-desafio\obj\Debug\net6.0\ref\Starter.dll

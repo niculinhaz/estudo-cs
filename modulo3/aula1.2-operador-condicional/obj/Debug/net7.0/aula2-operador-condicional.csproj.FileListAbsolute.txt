@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\bin\Debug\net7.0\aula2-operador-condicional.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\bin\Debug\net7.0\aula2-operador-condicional.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\bin\Debug\net7.0\aula2-operador-condicional.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\bin\Debug\net7.0\aula2-operador-condicional.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\bin\Debug\net7.0\aula2-operador-condicional.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\refint\aula2-operador-condicional.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\aula2-operador-condicional.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula2-operador-condicional\obj\Debug\net7.0\ref\aula2-operador-condicional.dll

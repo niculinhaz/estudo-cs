@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\bin\Debug\net7.0\aula1.3-metodo-que-retorna-valor.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\bin\Debug\net7.0\aula1.3-metodo-que-retorna-valor.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\bin\Debug\net7.0\aula1.3-metodo-que-retorna-valor.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\bin\Debug\net7.0\aula1.3-metodo-que-retorna-valor.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\bin\Debug\net7.0\aula1.3-metodo-que-retorna-valor.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\refint\aula1.3-metodo-que-retorna-valor.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\aula1.3-metodo-que-retorna-valor.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo5\aula1.3-metodo-que-retorna-valor\obj\Debug\net7.0\ref\aula1.3-metodo-que-retorna-valor.dll

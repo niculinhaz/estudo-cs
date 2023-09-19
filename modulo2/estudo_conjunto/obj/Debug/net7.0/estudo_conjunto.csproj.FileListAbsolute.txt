@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\bin\Debug\net7.0\estudo_conjunto.exe
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\bin\Debug\net7.0\estudo_conjunto.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\bin\Debug\net7.0\estudo_conjunto.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\bin\Debug\net7.0\estudo_conjunto.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\bin\Debug\net7.0\estudo_conjunto.pdb
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\refint\estudo_conjunto.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.pdb
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\estudo_conjunto.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_conjunto\obj\Debug\net7.0\ref\estudo_conjunto.dll

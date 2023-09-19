@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\bin\Debug\net7.0\estudo_condicionais.exe
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\bin\Debug\net7.0\estudo_condicionais.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\bin\Debug\net7.0\estudo_condicionais.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\bin\Debug\net7.0\estudo_condicionais.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\bin\Debug\net7.0\estudo_condicionais.pdb
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\refint\estudo_condicionais.dll
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.pdb
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\estudo_condicionais.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\BSI\estudo_cs\modulo2\estudo_condicionais\obj\Debug\net7.0\ref\estudo_condicionais.dll

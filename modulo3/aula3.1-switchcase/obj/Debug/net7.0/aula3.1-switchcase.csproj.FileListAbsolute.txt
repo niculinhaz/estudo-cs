@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\bin\Debug\net7.0\aula3.1-switchcase.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\bin\Debug\net7.0\aula3.1-switchcase.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\bin\Debug\net7.0\aula3.1-switchcase.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\bin\Debug\net7.0\aula3.1-switchcase.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\bin\Debug\net7.0\aula3.1-switchcase.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\refint\aula3.1-switchcase.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\aula3.1-switchcase.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula3.1-switchcase\obj\Debug\net7.0\ref\aula3.1-switchcase.dll

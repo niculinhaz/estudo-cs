@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\bin\Debug\net7.0\aula4.4-exercicio.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\bin\Debug\net7.0\aula4.4-exercicio.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\bin\Debug\net7.0\aula4.4-exercicio.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\bin\Debug\net7.0\aula4.4-exercicio.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\bin\Debug\net7.0\aula4.4-exercicio.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\refint\aula4.4-exercicio.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\aula4.4-exercicio.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo3\aula4.4-exercicio\obj\Debug\net7.0\ref\aula4.4-exercicio.dll

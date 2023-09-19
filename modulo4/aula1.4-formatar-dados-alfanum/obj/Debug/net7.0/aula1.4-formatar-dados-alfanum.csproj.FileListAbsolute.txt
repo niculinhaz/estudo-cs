@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\bin\Debug\net7.0\aula1.4-formatar-dados-alfanum.exe
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\bin\Debug\net7.0\aula1.4-formatar-dados-alfanum.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\bin\Debug\net7.0\aula1.4-formatar-dados-alfanum.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\bin\Debug\net7.0\aula1.4-formatar-dados-alfanum.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\bin\Debug\net7.0\aula1.4-formatar-dados-alfanum.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\refint\aula1.4-formatar-dados-alfanum.dll
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.pdb
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\aula1.4-formatar-dados-alfanum.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\estudo_cs\modulo4\aula1.4-formatar-dados-alfanum\obj\Debug\net7.0\ref\aula1.4-formatar-dados-alfanum.dll
